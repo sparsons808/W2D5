@@ -1,0 +1,49 @@
+body { 
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 38px;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+.ingredients-list {
+    list-style: square;
+}
+
+ol {
+    list-style-type: upper-alpha;
+}
+
+header > img {
+    max-width: 100px;
+}
+
+ul > a {
+    text-decoration: none;
+    color: inherit;
+}
+
+html {
+    background-color: lavender;
+}
+
+select ~ input  {
+    cursor: pointer;
+    overflow: none;
+}
+
+input:last-child {
+    background-color: darkgray;
+}
+
+h2 #directions {
+    background-color: lightgray;
+}
+
+.user_review {
+    
+}
